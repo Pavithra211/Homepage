@@ -1,0 +1,168 @@
+* {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.head {
+    background-color: rgb(221, 148, 13);
+    color: white;
+    padding: 40px;
+
+
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+
+}
+
+.banner {
+    position: relative;
+
+}
+
+.plex {
+    position: absolute;
+    top: 2%;
+    color: orange;
+    padding: 10px 50px;
+
+    font-size: 20px;
+    display: flex;
+}
+
+.plex span {
+    color: white;
+    margin: 0px 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+
+}
+
+.plex span a{
+    text-decoration: none;
+    color:white;
+}
+
+.plex span a:hover {
+    color: orange;
+}
+
+#s1 {
+    padding: 0 55%;
+}
+
+.content{
+ 
+    position: absolute;
+    top:50%;
+    color:white;
+    font-size: 25px;
+    transform:translate(35% );
+    text-align: center;
+   
+    
+}
+
+.footer{
+    width:250px;
+    height:160px;
+    position:absolute;
+  top:128%;
+  border:2px;
+  border-style: none;
+  border-radius:15px;
+  padding:25px;
+  text-align: center;
+color:white;
+background-color: orange;
+}
+
+.btn{
+    border:1px solid gray;
+    border-radius:25px;
+    padding:15px;
+    background-color: lightgray;
+}
+
+
+
+.footer1{
+    width:250px;
+    height:160px;
+    position:absolute;
+top:128%;
+  border:2px;
+  border-style: none;
+  border-radius:15px;
+  padding:25px;
+  text-align: center;
+color:white;
+background-color: orange;
+transform: translate(112% );
+
+
+}
+
+.btn1{
+    border:1px solid gray;
+    border-radius:25px;
+    padding:10px;
+    background-color: lightgray;
+}
+
+.footer2{
+    width:250px;
+    height:160px;
+    position:absolute;
+top:128%;
+  border:2px;
+  border-style: none;
+  border-radius:15px;
+  padding:25px;
+  text-align: center;
+color:white;
+background-color: orange;
+transform: translate(225% );
+
+
+}
+
+.btn2{
+    border:1px solid gray;
+    border-radius:25px;
+    padding:10px;
+    background-color: lightgray;
+}
+
+.footer3{
+    width:250px;
+    height:160px;
+    position:absolute;
+top:128%;
+  border:2px;
+  border-style: none;
+  border-radius:15px;
+  padding:25px;
+  text-align: center;
+color:white;
+background-color: orange;
+transform: translate(340% );
+
+
+}
+
+.btn3{
+    border:1px solid gray;
+    border-radius:25px;
+    padding:10px;
+    background-color: lightgray;
+}
+
